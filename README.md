@@ -1,2 +1,2 @@
 # aprendiendocsharp
-Ejercicios de aprendizaje CSHARP
+Ejercicios para aprender CSHARP
